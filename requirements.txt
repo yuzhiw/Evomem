@@ -1,0 +1,7 @@
+# Auto-extracted third-party dependencies (verify & pin versions before submission)
+bert_score
+numpy
+openai
+sentence_transformers
+torch
+transformers

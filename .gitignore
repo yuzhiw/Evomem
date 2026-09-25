@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.env
+*.log
+knowledge_memory*.json
+.DS_Store
+__pycache__
